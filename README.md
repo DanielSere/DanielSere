@@ -7,7 +7,7 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/danielsere/" target="blank" style="margin-right: 4px" title="Linkedin">
-		<img align="center" src="./assets/linkedin.svg" alt="Daniel Sere" heigth="28px" width="28px"/>
+		<img align="center" src="./assets/linkedin.svg" alt="Daniel Sere" heigth="40px" width="40px"/>
 	</a>
 </p>
 
