@@ -17,41 +17,41 @@
 
 ### 📚 I'm currently learning...
 
-<a href="https://mongodb.com" target="blank" alt="MongoDB" title="MongoDB">
-	<img width="60" src="./assets/mongodb.svg">
+<a href="https://mongodb.com" target="blank" title="MongoDB">
+	<img width="60" src="./assets/mongodb.svg" alt="MongoDB">
 </a>
-<a href="https://reactjs.org/" target="blank" alt="React" title="React">
-	<img width="60" src="./assets/react.svg">
+<a href="https://reactjs.org/" target="blank" title="React">
+	<img width="60" src="./assets/react.svg" alt="React">
 </a>
-<a href="https://docker.com/" target="blank" alt="Docker" title="Docker">
-	<img width="60" src="./assets/docker.svg">
+<a href="https://docker.com/" target="blank" title="Docker">
+	<img width="60" src="./assets/docker.svg" alt="Docker">
 </a>
 
 ### 🚀 Technologies with i feel comfortable...
 
-<a href="https://nodejs.org/" target="blank" alt="Node JS" title="Node Js">
-	<img width="60" src="./assets/node-js.svg">
+<a href="https://nodejs.org/" target="blank" title="Node Js">
+	<img width="60" src="./assets/node-js.svg" alt="Node JS">
 </a>
-<a href="https://expressjs.com/" target="blank" alt="Express JS" title="Express JS">
-	<img width="60" src="./assets/express-js.svg">
+<a href="https://expressjs.com/" target="blank" title="Express JS">
+	<img width="60" src="./assets/express-js.svg" alt="Express JS">
 </a>
-<a href="https://javascript.com/" target="blank" alt="JavaScript" title="JavaScript">
-	<img width="60" src="./assets/javascript.svg">
+<a href="https://javascript.com/" target="blank" title="JavaScript">
+	<img width="60" src="./assets/javascript.svg" alt="JavaScript">
 </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" alt="CSS" title="CSS">
-	<img width="60" src="./assets/css3.svg">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" title="CSS">
+	<img width="60" src="./assets/css3.svg" alt="CSS">
 </a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" alt="HTML" title="HTML">
-	<img width="60" src="./assets/html-5.svg">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" title="HTML">
+	<img width="60" src="./assets/html-5.svg" alt="HTML">
 </a>
-<a href="https://python.org/" target="blank" alt="Python" title="Python">
-	<img width="60" src="./assets/python.svg">
+<a href="https://python.org/" target="blank" title="Python">
+	<img width="60" src="./assets/python.svg" alt="Python">
 </a>
-<a href="https://git-scm.com" target="blank" alt="Git" title="Git">
-	<img width="60" src="./assets/git.svg">
+<a href="https://git-scm.com" target="blank" title="Git">
+	<img width="60" src="./assets/git.svg" alt="Git">
 </a>
-<a href="https://linux.com" target="blank" alt="Linux" title="Linux">
-	<img width="60" src="./assets/linux.pn">
+<a href="https://linux.com" target="blank" title="Linux">
+	<img width="60" src="./assets/linux.pn" alt="Linux">
 </a>
 <!-- 
 <a href="" target="blank" alt="" title="">
