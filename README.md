@@ -17,18 +17,44 @@
 
 ### 📚 I'm currently learning...
 
-<a href="https://expressjs.com/" title="Express JS">
-	<img width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/express.svg">
+<a href="https://mongodb.com" target="blank" alt="MongoDB" title="MongoDB">
+	<img width="60" src="./assets/mongodb.svg">
 </a>
-<a href="https://reactjs.org/" title="React">
-	<img width="60" src="https://user-images.githubusercontent.com/109598200/196561528-a3cd75e0-c651-4b2e-9b02-79ed1c73638e.png">
+<a href="https://reactjs.org/" target="blank" alt="React" title="React">
+	<img width="60" src="./assets/react.svg">
 </a>
-<a href="https://docker.com/" title="Docker">
-	<img width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/docker.svg">
+<a href="https://docker.com/" target="blank" alt="Docker" title="Docker">
+	<img width="60" src="./assets/docker.svg">
 </a>
 
 ### 🚀 Technologies with i feel comfortable...
 
-<a href="https://nodejs.org/" title="Node Js">
-	<img width="60" src="https://user-images.githubusercontent.com/109598200/201104525-2f8e6277-8150-420c-b559-c3d18af037b0.png">
+<a href="https://nodejs.org/" target="blank" alt="Node JS" title="Node Js">
+	<img width="60" src="./assets/node-js.svg">
 </a>
+<a href="https://expressjs.com/" target="blank" alt="Express JS" title="Express JS">
+	<img width="60" src="./assets/express-js.svg">
+</a>
+<a href="https://javascript.com/" target="blank" alt="JavaScript" title="JavaScript">
+	<img width="60" src="./assets/javascript.svg">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" alt="CSS" title="CSS">
+	<img width="60" src="./assets/css3.svg">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank" alt="HTML" title="HTML">
+	<img width="60" src="./assets/html-5.svg">
+</a>
+<a href="https://python.org/" target="blank" alt="Python" title="Python">
+	<img width="60" src="./assets/python.svg">
+</a>
+<a href="https://git-scm.com" target="blank" alt="Git" title="Git">
+	<img width="60" src="./assets/git.svg">
+</a>
+<a href="https://linux.com" target="blank" alt="Linux" title="Linux">
+	<img width="60" src="./assets/linux.png">
+</a>
+<!-- 
+<a href="" target="blank" alt="" title="">
+	<img width="60" src="">
+</a>
+-->
