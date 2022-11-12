@@ -51,7 +51,7 @@
 	<img width="60" src="./assets/git.svg" alt="Git">
 </a>
 <a href="https://linux.com" target="blank" title="Linux">
-	<img width="60" src="./assets/linux.pn" alt="Linux">
+	<img width="60" src="./assets/linux.png" alt="Linux">
 </a>
 <!-- 
 <a href="" target="blank" alt="" title="">
