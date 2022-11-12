@@ -6,7 +6,7 @@
 <p align="center">I'm a future <strong>Web Developer</strong> <br/>These are my social networks👇</p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/danielsere/" target="blank" style="margin-right: 4px" title="Linkedin">
+	<a href="https://www.linkedin.com/in/danielsere/" target="_blank" style="margin-right: 4px" title="Linkedin">
 		<img align="center" src="./assets/linkedin.svg" alt="Daniel Sere" heigth="40px" width="40px"/>
 	</a>
 </p>
