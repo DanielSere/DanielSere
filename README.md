@@ -1,6 +1,6 @@
 <p align="center" width="300">
   <!-- <img align="center" width="200" src="./assets/profile.png"/> -->
-  <h3 align="center">"Hey👋!  I'm Daniel 👨🏻‍💻</h3>
+  <h3 align="center">Hey👋!  I'm Daniel 👨🏻‍💻</h3>
 </p>
 
 <p align="center">I'm a future <strong>Web Developer</strong> <br/>These are my social networks👇</p>
